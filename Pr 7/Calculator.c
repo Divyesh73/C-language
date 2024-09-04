@@ -73,6 +73,5 @@ void main()
 		default : printf("\nEnter Valid Choice!!");
 	}
 	goto restart;
-	end:
 	printf("\nThe Program Has Been Ended");
 }
